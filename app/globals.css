@@ -300,30 +300,29 @@ html {
 
 
 .price-head {
-  background-image: url("../public/ramadan/tag2.png");
-  /* background-color: transparent; */
-  background-size: 100% auto;
-  background-position: 0 0;
-  background-repeat: no-repeat;
-  background-origin: border-box;
-  background-clip: border-box;
-  border: medium none;
-  border-radius: 0;
-  color: #6c5624;
-  display: table;
-  float: none;
-  font-size: 20px;
-  height: 200px;
-  margin: 0 auto -55px;
-  position: relative;
-  -webkit-transition: all 0.4s ease 0s;
-  -moz-transition: all 0.4s ease 0s;
-  -o-transition: all 0.4s ease 0s;
-  -ms-transition: all 0.4s ease 0s;
-  transition: all 0.4s ease 0s;
-  width: 190px;
-  z-index: 9;
-  padding-top: 100px;
+    background-image: url(../media/tag2.f79b6ee3.png);
+    background-size: 100%;
+    background-position: 0 0;
+    background-repeat: no-repeat;
+    background-origin: border-box;
+    background-clip: border-box;
+    border: none;
+    border-radius: 0;
+    color: #6c5624;
+    display: table;
+    float: none;
+    font-size: 20px;
+    height: 208px;
+    margin: 0 auto -55px;
+    position: relative;
+    -webkit-transition: all .4s;
+    -moz-transition: all .4s;
+    -o-transition: all .4s ease 0s;
+    -ms-transition: all .4s;
+    transition: all .4s;
+    width: 212px;
+    z-index: 9;
+    padding-top: 70px;
 }
 
 
